@@ -1,4 +1,4 @@
-# embed-github.js [![Project Status](http://stillmaintained.com/Jamesking56/embed-github.js.png)](http://stillmaintained.com/Jamesking56/embed-github.js)
+# embed-github.js [![Project Status](http://stillmaintained.com/Jamesking56/embed-github.js.png)](http://stillmaintained.com/Jamesking56/embed-github.js) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Jamesking56/embed-github.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 embed-github.js is a free to use piece of JavaScript to embed GitHub repositories on webpages. It uses jQuery, embedded CSS and GitHub's own font to accomplish this.
 
 ## Usage
